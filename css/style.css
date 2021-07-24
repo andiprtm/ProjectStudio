@@ -359,7 +359,7 @@ label.error {
 	color: #464989; 
 } */
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
 	.body-piling .brand {
 		top: 3.875rem;
 	}
@@ -369,7 +369,7 @@ label.error {
 	.body-piling .brand {
 		left: 4.375rem;
 	}
-}
+} */
 
 
 
