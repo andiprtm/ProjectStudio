@@ -363,15 +363,21 @@ label.error {
 	color: #464989; 
 } */
 
+@media (min-width: 280px) {
+	.body-piling .brand {
+		top: 20px;
+	}
+}
+
 @media (min-width: 768px) {
 	.body-piling .brand {
-		top: 3.1875rem;
+		top: 3.3875rem;
 	}
 }
 
 @media (min-width: 1400px) {
 	.body-piling .brand {
-		left: 4.375rem;
+		left: 4.1875rem;
 	}
 }
 
