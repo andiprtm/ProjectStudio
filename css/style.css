@@ -827,7 +827,7 @@ html:not(.body-menu-opened) .hamburger:hover .bottom-bun {
 @media (min-width:280px){
 	.slide-about .slide-container {
 		width: 100%;
-		min-height: 140%;
+		min-height: 108%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1301,7 +1301,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-services .slide-container {
 		width: 100%;
-		min-height: 190%;
+		min-height: 165%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1531,7 +1531,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-skills .slide-container {
 		width: 100%;
-		min-height: 150%;
+		min-height: 130%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1652,7 +1652,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-resume .slide-container {
 		width: 100%;
-		min-height: 230%;
+		min-height: 210%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1791,7 +1791,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-portfolio .slide-container {
 		width: 100%;
-		min-height: 140%;
+		min-height: 110%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1864,7 +1864,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-awards .slide-container {
 		width: 100%;
-		min-height: 190%;
+		min-height: 150%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -1969,7 +1969,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-testimonials .slide-container {
 		width: 100%;
-		min-height: 165%;
+		min-height: 140%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -2094,7 +2094,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-clients .slide-container {
 		width: 100%;
-		min-height: 160%;
+		min-height: 130%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
@@ -2257,7 +2257,7 @@ h3.slide-title {
 @media (min-width:280px){
 	.slide-contacts .slide-container {
 		width: 100%;
-		min-height: 120%;
+		min-height: 100%;
 		display: flex;
 		align-items: center;
 		padding-top: 6.25rem;
