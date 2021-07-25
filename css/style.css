@@ -344,8 +344,9 @@ label.error {
 	top: 15px;
 }
 
-.brand-name {
+#brand-name {
 	cursor: pointer;
+	width: 80%;
     /* margin-right: auto; */
 	/* color: #234969;
 	text-decoration: none;
@@ -363,9 +364,23 @@ label.error {
 	color: #464989; 
 } */
 
+@media (min-width:280px){
+	#brand-name {
+		cursor: pointer;
+		width: 50%;
+	}
+}
+
+@media (min-width:680px){
+	#brand-name {
+		cursor: pointer;
+		width: 80%;
+	}
+}
+
 @media (min-width: 280px) {
 	.body-piling .brand {
-		top: 20px;
+		top: .375px;
 	}
 }
 
@@ -394,7 +409,7 @@ label.error {
 .body-piling .nav-toggle-btn {
 	position: fixed;
 	right: 15px;
-	top: 20px;
+	top: 24px;
 }
 
 @media (min-width: 768px) {
