@@ -346,7 +346,7 @@ label.error {
 
 #brand-name {
 	cursor: pointer;
-	width: 80%;
+	width: 40%;
     /* margin-right: auto; */
 	/* color: #234969;
 	text-decoration: none;
@@ -374,11 +374,11 @@ label.error {
 @media (min-width:680px){
 	#brand-name {
 		cursor: pointer;
-		width: 80%;
+		width: 40%;
 	}
 }
 
-@media (min-width: 280px) {
+@media (max-width: 680px) {
 	.body-piling .brand {
 		top: .375px;
 	}
@@ -392,7 +392,7 @@ label.error {
 
 @media (min-width: 1400px) {
 	.body-piling .brand {
-		left: 4.1875rem;
+		left: 2.25rem;
 	}
 }
 
