@@ -324,7 +324,7 @@ label.error {
 -------------------------------------------------------------------------------*/
 
 .header {
-	padding-top: 3.875rem;
+	padding-top: 0rem;
 }
 
 .body-piling .header {
@@ -380,19 +380,19 @@ label.error {
 
 @media (max-width: 680px) {
 	.body-piling .brand {
-		top: .375px;
+		top: 0px;
 	}
 }
 
 @media (min-width: 768px) {
 	.body-piling .brand {
-		top: 3.3875rem;
+		top: 2.21rem;
 	}
 }
 
 @media (min-width: 1400px) {
 	.body-piling .brand {
-		left: 2.25rem;
+		left: 4.375rem;
 	}
 }
 
